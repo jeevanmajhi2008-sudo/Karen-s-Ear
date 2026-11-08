@@ -1,4 +1,4 @@
-🕸️ Karen's Ear(Link -https://claude.ai/artifact/LHTsnHtrovjtAeq6bbP8CD)
+🕸️ Karen's Ear(Link -https://karensear.netlify.app)
 
 AI-Assisted Emergency Dispatch & Threat-Alert System — NYC Prototype
 
